@@ -10,10 +10,3 @@ Olá! Meu nome é Bruno Aseff, tenho 21 anos e sou obcecado por estudar. No últ
 ## Objetivos
 
 Estou em busca da minha primeira oportunidade na área de programação. Enquanto isso, continuo criando projetos para expandir meu portfólio e desenvolver minhas habilidades técnicas.
-
-## Projetos
-
-Aqui você encontrará alguns dos projetos em que estou trabalhando. Eles representam meu progresso e as novas tecnologias e conceitos que venho aprendendo. Sinta-se à vontade para explorar, comentar e contribuir!
-
-Estou sempre aberto a feedbacks e novas oportunidades. Vamos nos conectar e compartilhar conhecimentos!
-
