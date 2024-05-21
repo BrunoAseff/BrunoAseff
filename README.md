@@ -18,6 +18,3 @@ Aqui você encontrará alguns dos projetos em que estou trabalhando. Eles repres
 
 Estou sempre aberto a feedbacks e novas oportunidades. Vamos nos conectar e compartilhar conhecimentos!
 
----
-
-Este README é uma breve introdução sobre mim e meu trabalho. Obrigado por visitar meu perfil no GitHub!
