@@ -4,7 +4,6 @@ Olá! Meu nome é Bruno Aseff, tenho 21 anos e sou obcecado por estudar. No últ
 
 ## Sobre Mim
 
-- **Idade:** 21 anos
 - **Paixões:** Programação, Física, Cozinhar
 - **Interesses:** Estudar, Desenvolver Projetos
 
