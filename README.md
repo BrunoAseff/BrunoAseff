@@ -9,5 +9,3 @@ Some projects:
 - 👁 [eye-patch](https://github.com/BrunoAseff/eye-patch) – Uptime and security monitor for all my public-facing projects.
 - 🎬 [theatre-updates](https://github.com/BrunoAseff/theatre-updates) – Tracks local cinema schedules and emails when something changes.
 - ✈️ [flaira](https://flaira.net/) (WIP) – A travel tracking platform to log and explore your trips.
-
-I'm based in Brazil, learning fast, building faster, and trying to leave everything a little better than I found it.
