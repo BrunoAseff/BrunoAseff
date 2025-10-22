@@ -8,4 +8,7 @@ Some projects:
 - 📌 [portfolio](https://brunoaseff.com.br/) – My resume, but with better fonts.
 - 👁 [eye-patch](https://github.com/BrunoAseff/eye-patch) – Uptime and security monitor for all my public-facing projects.
 - 🎬 [theatre-updates](https://github.com/BrunoAseff/theatre-updates) – Tracks local cinema schedules and emails when something changes.
-- ✈️ [flaira](https://flaira.net/) (WIP) – A travel tracking platform to log and explore your trips.
+- 🫧 [bolhas na mão](https://bolhas.org) – A lab of simulations and visual experiments trying to make learning a little more magical.
+
+  - [Game of Life](https://gameoflife.bolhas.org) – Conway’s classic reimagined in the browser.
+  - [Ecosystem Simulator](https://ecosystem.bolhas.org) – Rabbits, foxes, and grass, all trying to survive.
