@@ -1,6 +1,6 @@
 I write software because I want to build tools that actually help people, not just maximize someone’s ad revenue.
 
-I'm focused on cloud infrastructure, automation, security, and making things that work. My stack usually includes TypeScript, Linux, Docker, AWS, PostgreSQL, and a lot of shell scripts I probably should’ve documented.
+I'm focused on cloud infrastructure, automation, security, and making things that work. My stack usually includes Go, TypeScript, Linux, Docker, AWS, PostgreSQL, and a lot of shell scripts I probably should’ve documented.
 
 Some projects:
 
