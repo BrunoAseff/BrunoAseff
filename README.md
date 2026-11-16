@@ -1,14 +1,17 @@
-I write software because I want to build tools that actually help people, not just maximize someone’s ad revenue.
+# Bruno Aseff
 
-I'm focused on cloud infrastructure, automation, security, and making things that work. My stack usually includes Go, TypeScript, Linux, Docker, AWS, PostgreSQL, and a lot of shell scripts I probably should’ve documented.
+Fullstack software engineer building web applications, integrations and AI-powered tools, with attention to interfaces and the people using them.
 
-Some projects:
+I work at **Bússola Social · Wiidoo Labs**, developing systems, interfaces and APIs, contributing to technical decisions, and building AI agents and automations.
 
-- 🧠 [nova](https://nova-pied-omega.vercel.app/spaces) – A digital platform to reduce stress and improve focus. Productivity without the hustle cult.
-- 📌 [portfolio](https://brunoaseff.com.br/) – My resume, but with better fonts.
-- 👁 [eye-patch](https://github.com/BrunoAseff/eye-patch) – Uptime and security monitor for all my public-facing projects.
-- 🎬 [theatre-updates](https://github.com/BrunoAseff/theatre-updates) – Tracks local cinema schedules and emails when something changes.
-- 🫧 [bolhas na mão](https://bolhas.org) – A lab of simulations and visual experiments trying to make learning a little more magical.
+**Tools I work with:** TypeScript, Vue.js, React, PHP/Laravel, Go, Docker and Linux.
 
-  - [Game of Life](https://gameoflife.bolhas.org) – Conway’s classic reimagined in the browser.
-  - [Ecosystem Simulator](https://ecosystem.bolhas.org) – Rabbits, foxes, and grass, all trying to survive.
+### Selected projects
+
+- [**Lazúli**](https://github.com/BrunoAseff/lazuli) — A study platform with documents, flashcards and quizzes, combining active recall and spaced repetition. [Try it](https://lazuli.brunoaseff.com.br/).
+- [**Nova**](https://github.com/BrunoAseff/nova) — Personalised focus environments with ambient sounds, Pomodoro sessions and breathing exercises. [Try it](https://nova-pied-omega.vercel.app/).
+- [**Bolhas**](https://github.com/Bolhas-na-mao/bolhas.org) — Interactive experiments in mathematics, computing and simulation. [Explore](https://bolhas.org).
+
+Based in Itajaí, Brazil. Fluent in English.
+
+[Portfolio](https://brunoaseff.com.br/) · [LinkedIn](https://www.linkedin.com/in/bruno-aseff/) · [Email](mailto:brunoaseff2@gmail.com)
